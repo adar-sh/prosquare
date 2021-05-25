@@ -3,7 +3,8 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Nayana Rajeev [https://github.com/NayanaRNair]
-2. Name [Embed perosnal github URL]
+2. Nandu Kannan M[https://github.com/HULK-DANGER]
+3. 
 ## Team Id
 
 ## Link to product walkthrough
