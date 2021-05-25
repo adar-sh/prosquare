@@ -4,7 +4,7 @@ Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Nayana Rajeev [https://github.com/NayanaRNair]
 2. Nandu Kannan M[https://github.com/HULK-DANGER]
-3. 
+3. Adarsh K [https://github.com/psy-sci]
 ## Team Id
 
 ## Link to product walkthrough
