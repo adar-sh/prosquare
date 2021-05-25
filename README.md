@@ -2,10 +2,10 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
+1. Nayana Rajeev [https://github.com/NayanaRNair]
 2. Name [Embed perosnal github URL]
 ## Team Id
-BFH/recmmFdrxbHFCnFkV/2021
+
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
