@@ -1,7 +1,7 @@
 
-from tweepy import Stream
+
 import tweepy
-from tweepy import cursor
+
 
 
 consumer_key='zJkas3FrAWaKR85xDkzIc5BoD'
