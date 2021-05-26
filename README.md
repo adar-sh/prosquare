@@ -26,6 +26,9 @@ BFH/recmmFdrxbHFCnFkV/2021
 3. pip install tweepy
 4. py saverPy.py
 
+### note 
+A simple code of this project is hosted in pythonAnywhere
+
 
 
 
