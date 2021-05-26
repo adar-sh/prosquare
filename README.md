@@ -20,10 +20,11 @@ BFH/recmmFdrxbHFCnFkV/2021
 ### Libraries used
 tweepy - 3.10.0
 ### How to configure and Run
-git clone https://github.com/psy-sci/prosquare.git
-cd prosquare
-pip install tweepy
-py saverPy.py
+1. git clone https://github.com/psy-sci/prosquare.git
+2. cd prosquare
+3. pip install tweepy
+4. py saverPy.py
+
 
 
 
