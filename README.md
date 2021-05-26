@@ -12,13 +12,14 @@
 ### Team Id
 BFH/recmmFdrxbHFCnFkV/2021
 ### Link to product walkthrough
-[link to video]
+[https://www.loom.com/share/73faa11910544ec2ab7256e54aaff763]
 ### How it Works ?
 1. A user mention/tag the bot in the required twitter thread. 
 2. The bot fetches the specic tweet thread text
 3. The bot direct messages the tweet text to the user
 ### Libraries used
-tweepy - 3.10.0
+1. tweepy - 3.10.0
+2. time
 ### How to configure and Run
 1. git clone https://github.com/psy-sci/prosquare.git
 2. cd prosquare
