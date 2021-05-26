@@ -44,4 +44,4 @@ while True:
             print("you cannot message this user")
     else:
         print("already sent")
-    time.sleep(5)
+    time.sleep(600)
