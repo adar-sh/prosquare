@@ -14,9 +14,10 @@ BFH/recmmFdrxbHFCnFkV/2021
 ### Link to product walkthrough
 [https://www.loom.com/share/73faa11910544ec2ab7256e54aaff763]
 ### How it Works ?
-1. A user mention/tag the bot in the required twitter thread. 
-2. The bot fetches the specic tweet thread text
-3. The bot direct messages the tweet text to the user
+1. A user follows the twitter bot.
+2. The user mention/tag the bot in the required twitter thread. 
+3. The bot fetches the specic tweet thread text
+4. The bot direct messages the tweet text to the user
 ### Libraries used
 1. tweepy - 3.10.0
 2. time
