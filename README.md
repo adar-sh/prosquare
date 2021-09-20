@@ -7,7 +7,7 @@
 
 ### Team members
 1. Nayana Rajeev [https://github.com/NayanaRNair]
-2. Nandu Kannan M [https://github.com/HULK-DANGER]
+2. Nandu Kannan M [https://github.com/Nandu-Kannan]
 3. Adarsh K [https://github.com/psy-sci]
 ### Team Id
 BFH/recmmFdrxbHFCnFkV/2021
