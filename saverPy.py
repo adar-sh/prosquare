@@ -5,13 +5,13 @@ import tweepy
 
 
 
-consumer_key='zJkas3FrAWaKR85xDkzIc5BoD'
+consumer_key=''
 
-consumer_secret='7Y595SHWNTrDkLNZFpj8unG7QVEOrTIj7ilKn4Cd2eXhZ6A5tl'
+consumer_secret=''
 
-access_token='1390673212212613127-wuWEc5GEg3zlTzbMWQ5T4OTBjXNWYX'
+access_token=''
 
-access_token_secret='VfKfhtx20hYhv96VEDN3jkCNk3lFGeGAPrdrCjHdC3New'
+access_token_secret=''
 
 
 auth=tweepy.OAuthHandler(consumer_key,consumer_secret)
