@@ -6,9 +6,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ### Team members
-1. Nayana Rajeev [https://github.com/NayanaRNair]
-2. Nandu Kannan M [https://github.com/Nandu-Kannan]
-3. Adarsh K [https://github.com/adar-sh]
+1. [Nayana Rajeev](https://github.com/NayanaRNair)
+2. [Nandu Kannan M](https://github.com/Nandu-Kannan)
+3. [Adarsh K](https://github.com/adar-sh)
 
 ### Link to product walkthrough
 [https://www.loom.com/share/73faa11910544ec2ab7256e54aaff763]
